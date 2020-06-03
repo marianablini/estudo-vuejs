@@ -16,7 +16,7 @@
             </v-btn>
           </v-form>
         </v-list-item-content>
-      </v-list-item>
+      </v-list-item> 
     </v-card>
   </div>
 </template>
